@@ -1,0 +1,25 @@
+{
+  "title": "Sen's Blog",
+  "url": "https://blog.senil.me/",
+  "pathPrefix": "/",
+  "language": "en",
+  "paginationSize": 10,
+  "favicon": "/assets/images/favicon.png",
+  "description": "Senil's dumb ramblings.",
+  "tags": ["blog"],
+  "feed": {
+    "path": "/feed.xml"
+  },
+  "jsonfeed": {
+    "path": "/feed.json"
+  },
+  "author": {
+    "name": "Senil",
+    "email": "",
+    "url": "https://senil.me"
+  },
+  "opengraph": {
+    "image": "/assets/images/opengraph-article.png",
+    "type": "article"
+  }
+}
